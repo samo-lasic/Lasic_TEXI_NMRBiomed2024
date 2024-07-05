@@ -1,4 +1,4 @@
-## Tuned Exchange Imaging (TEXI) – Can Filter Exchange Imaging pulse sequence be adapted for applications with thin slices and restricted diffusion?
+## Tuned exchange imaging: Can the filter exchange imaging pulse sequence be adapted for applications with thin slices and restricted diffusion?
 
 Samo Lasič<sup>1,2*</sup>, Arthur Chakwizira<sup>3</sup>, Henrik Lundell<sup>2,4</sup>, Carl-Fredrik Westin<sup>5</sup>, and Markus Nilsson<sup>6</sup>
 
@@ -19,7 +19,7 @@ Email address: samo.lasic@med.lu.se
 
 ### Reference
 If you use these resources, please cite:\
-[Lasič et al. Tuned Exchange Imaging (TEXI) – Can Filter Exchange Imaging pulse sequence be adapted for applications with thin slices and restricted diffusion?, NMR Biomed. 2024;(xxx):x-x](https://doi.org/)
+[Lasič et al. Tuned exchange imaging: Can the filter exchange imaging pulse sequence be adapted for applications with thin slices and restricted diffusion? NMR in Biomedicine. 2024;e5208. doi:10.1002/nbm.5208](http://doi.org/10.1002/nbm.5208)
 
 ### Additinal resources
 [Multidimensional diffusion MRI repository](https://github.com/markus-nilsson/md-dmri)
@@ -27,7 +27,7 @@ If you use these resources, please cite:\
 ### Overview
 Filter exchange imaging (FEXI) with thin imaging slices requires strong crushers, which bias exchange rate estimates and confound exchange with restricted diffusion. The proposed modified tuned exchange imaging (TEXI) protocol provides accurate exchange rates regardless of slice thickness and restriction size, even with strong crushers.
 
-This repository contains FEXI and TEXI pulse sequence parameters, results from Monte Carlo simulations and Matlab code used in the publication [Lasič et al., NMR Biomed. 2024;(xxx):x-x](https://doi.org/).
+This repository contains FEXI and TEXI pulse sequence parameters, results from Monte Carlo simulations and Matlab code used in the publication [Lasič et al., NMR Biomed. 2024;e5208. doi:10.1002/nbm.5208](http://doi.org/10.1002/nbm.5208).
 
 Matlab scripts:
 
